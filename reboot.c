@@ -4,11 +4,11 @@
 
 //misread a header as unibreakdance.h lol
 
-/* this is a simple program that prints my favorite word to the console 
+/* this is a simple program that prints a message to the console 
 btw this is a multi line comment test where reboot happens*/
 
 int main() {
-    printf("muahaha im not gonna save ANY of your work you NIGGERS btw you have 2 seconds to read this\n");
+    printf("muahaha im not gonna save ANY of your work you [__] btw you have 2 seconds to read this\n");
 
     // of course we have to use sleep because we are lazy//
 
